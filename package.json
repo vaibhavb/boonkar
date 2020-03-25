@@ -1,0 +1,24 @@
+{
+  "name": "boonkar",
+  "version": "0.0.1",
+  "description": "A weaver for web pages from markdown, csv, googlespreadsheets and like.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavb/boonkar.git"
+  },
+  "keywords": [
+    "weaver",
+    "webpage",
+    "builder"
+  ],
+  "author": "Vaibhav Bhandari (vaibhavb@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vaibhavb/boonkar/issues"
+  },
+  "homepage": "https://github.com/vaibhavb/boonkar#readme"
+}
